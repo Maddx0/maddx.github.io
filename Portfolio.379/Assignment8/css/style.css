@@ -1,0 +1,42 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+figure.responsive{
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height:0px;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+figure.responsive{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height:100%
+}
+
+
+body {
+	
+	
+}
+
+
+#container {
+	
+}
+
+
+

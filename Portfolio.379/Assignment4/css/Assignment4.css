@@ -1,0 +1,47 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+    
+    
+
+    
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 56px;
+    line-height: 1.5em;
+}
+    
+body {
+        font-family: "Creepster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+
+style{
+    
+}
+
+body {
+	
+	 background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,70,1) 99%);
+    
+}
+
+    
+
+
+
+#container {
+	
+}
+
+
+
+
+
